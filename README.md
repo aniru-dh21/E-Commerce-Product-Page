@@ -46,3 +46,6 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
       <th>
         <h3>App Built</h3>
       </th>
+    </tr>
+  </thead>
+  
