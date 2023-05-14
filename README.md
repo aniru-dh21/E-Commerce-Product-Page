@@ -26,3 +26,5 @@ The users should be able to:
 - Switch the large product image by clicking on the small thumbnail images ✔️
 - Add items to the cart ✔️
 - View the cart and remove items from it ✔️
+
+### About the app built <a name="abouttheapp"></a>
