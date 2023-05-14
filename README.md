@@ -101,4 +101,6 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
     </td>
     <td>
       <h3><em>Home Screen App Built</em></h3>
-      
+      <img src="./screenshots/Desktop Home page.png" width="1440px">
+    </td>
+  </tr>
