@@ -136,4 +136,4 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
       <img src="./design/desktop-design-lightbox.jpg" width="1440px">
     </td>
   </tr>
-  
+  <tr>
