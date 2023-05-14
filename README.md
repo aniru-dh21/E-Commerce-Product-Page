@@ -146,3 +146,4 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
 
 ## Built With <a name="builtwith"></a>
 - Semantic HTML5 markup
+- CSS & JS custom properties
