@@ -149,3 +149,4 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
 - CSS & JS custom properties
 - Flexbox
 - CSS Grid
+- Mobile-First Workflow
