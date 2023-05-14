@@ -94,4 +94,5 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
 
 ## Screenshots - Desktop <a name="screenshotsdesktop"></a> 🖥️
 <table align="center">
-  
+  <tr>
+    
