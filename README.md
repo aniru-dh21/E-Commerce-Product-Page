@@ -93,3 +93,5 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
 </table>
 
 ## Screenshots - Desktop <a name="screenshotsdesktop"></a> 🖥️
+<table align="center">
+  
