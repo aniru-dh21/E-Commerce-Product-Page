@@ -65,5 +65,5 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
         <img width="350px" src="./design/mobile-design-basket-empty.jpg">
       </td>
       <td>
-        
+        <h4><em>Cart Empty</em></h4>
     </tr>
