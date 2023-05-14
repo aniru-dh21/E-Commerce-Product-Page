@@ -17,3 +17,6 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 ### The Challenge <a name="thechallenge"></a> 🎯
 The challenge was to build a responsive e-commerece product web page for mobile and desktop devices, following the design files and trying to keep as close as possible to them.
+
+The users should be able to:
+
