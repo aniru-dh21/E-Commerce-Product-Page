@@ -40,4 +40,4 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
 <table align="center">
   <thead>
     <tr>
-      
+      <th>
