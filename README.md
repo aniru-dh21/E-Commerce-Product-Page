@@ -38,4 +38,5 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
 
 ## Screenshots - Mobile <a name="screenshotsmobile"></a>
 <table align="center">
-  
+  <thead>
+    
