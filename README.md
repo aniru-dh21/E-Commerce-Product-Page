@@ -7,3 +7,4 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 - [Overview](#overview)
   - [The Challenge](#thechallenge)
+  - [About The App Built](#abouttheapp)
