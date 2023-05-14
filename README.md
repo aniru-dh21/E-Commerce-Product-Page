@@ -21,3 +21,4 @@ The challenge was to build a responsive e-commerece product web page for mobile 
 The users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size ✔️
+- See hover states for all interactive elements on the page ✔️
