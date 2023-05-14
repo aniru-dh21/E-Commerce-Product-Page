@@ -6,3 +6,4 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 ## Table of Contents 📜
 
 - [Overview](#overview)
+  - [The Challenge](#thechallenge)
