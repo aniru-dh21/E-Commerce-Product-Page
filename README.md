@@ -139,4 +139,7 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
   <tr>
     <td>
       <h3><em>Lightbox Opened App Built</em></h3>
-      
+      <img src="./screenshots/Desktop Lightbox.png" width="1440px">
+    </td>
+  </tr>
+</table>  
