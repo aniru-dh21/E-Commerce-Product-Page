@@ -29,3 +29,5 @@ The users should be able to:
 
 ### About the app built <a name="abouttheapp"></a>
 It's an e-commerce product web page, you can add the item (autumn sneakers) to the cart how many times you want, see all the images about the product by clicking on the arrow buttons (mobile & lightbox opened) of by the thumb images below the main image (only screens with >= 992px).
+
+- The items in the cart are being stored in the user's browsers, in **session storage**, which means they will only be available while the browser section is opened.
