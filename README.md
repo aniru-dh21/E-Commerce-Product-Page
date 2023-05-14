@@ -99,6 +99,8 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
       <h3><em>Home Screen Design</em></h3>
       <img src="./design/desktop-preview.jpg" width="1440px">
     </td>
+  </tr>
+  <tr>
     <td>
       <h3><em>Home Screen App Built</em></h3>
       <img src="./screenshots/Desktop Home page.png" width="1440px">
@@ -109,3 +111,4 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
       <h3><em>Cart Empty Design</em></h3>
       <img src="./design/active-states-basket-empty.jpg" width="1440px">
     </td>
+  </tr>
