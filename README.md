@@ -91,3 +91,5 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
     </tr>
   </tbody>
 </table>
+
+## Screenshots - Desktop <a name="screenshotsdesktop"></a>
