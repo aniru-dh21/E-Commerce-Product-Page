@@ -36,7 +36,7 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
 - You can download or clone the project, once you have the files you'll need a server to run the application. You can use the *live server* from visual studio code, for example. The main file is the ```index.html```
 - You can access the [live site](https://aniru-dh21.github.io/E-Commerce-Product-Page/)
 
-## Screenshots - Mobile <a name="screenshotsmobile"></a>
+## Screenshots - Mobile <a name="screenshotsmobile"></a> 📱
 <table align="center">
   <thead>
     <tr>
@@ -86,7 +86,7 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
       </td>
       <td>
         <h4><em>Menu Opened</em></h4>
-        <img src="350px" src="./screenshots/mobile menu.jpg">
+        <img src="350px" src="./screenshots/mobile home menu.jpg">
       </td>
     </tr>
   </tbody>
