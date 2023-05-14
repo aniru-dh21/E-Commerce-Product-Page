@@ -33,4 +33,4 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
 - The items in the cart are being stored in the user's browsers, in **session storage**, which means they will only be available while the browser section is opened.
 
 ## 🛠️ How to run the project <a name="howtoruntheproject"></a>
-- You can download or clone the project, once you have the files you'll need a server to run the application.
+- You can download or clone the project, once you have the files you'll need a server to run the application. You can use the *live server* from visual studio code, for example. 
