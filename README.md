@@ -41,3 +41,6 @@ It's an e-commerce product web page, you can add the item (autumn sneakers) to t
   <thead>
     <tr>
       <th>
+        <h3>Design</h3>
+      </th>
+      
